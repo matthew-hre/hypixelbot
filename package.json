@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "hypixel bank info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "author": "matthew-hre",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "hypixel-api-nodejs": "^0.1.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
